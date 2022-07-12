@@ -2,7 +2,6 @@
 - 👀 I’m interested in ...COMPUTER, TECH, VIDEO MAKING, MUSIC PRODUCTION
 - 🌱 I’m currently learning ...HTML, JAVA SCRIPT, CSS
 - 💞️ I’m looking to collaborate on ...Python Codes
-- 📫 How to reach me ...garvit.sachdeva20120404@outlook.com
 
 <!---
 Garvit-python/Garvit-python is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
